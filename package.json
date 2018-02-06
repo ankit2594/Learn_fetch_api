@@ -1,0 +1,23 @@
+{
+  "name": "VirtualDom",
+  "version": "1.0.0",
+  "description": "[\r     {\r         \"name\": \"Ankit Gupta\",\r         \"id\":1,\r         \"email\":\"ankit@gmail.com\"\r     },\r     {\r         \"name\": \"vinay\",\r         \"id\":2,\r         \"email\":\"vinay@gmail.com\"\r     },\r     {\r         \"name\": \"ankur\",\r         \"id\":3,\r         \"email\":\"ankur@gmail.com\"\r     }\r ]",
+  "main": "create.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --watch",
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@glcgitlab.southindia.cloudapp.azure.com:playground/webtech-nov-2017/M1042948_Ankit_Gupta/OrchardLearnig.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^5.5.5",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.9.7"
+  }
+}
